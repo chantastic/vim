@@ -1,5 +1,11 @@
 ## Open Files from the Terminal
 
+## Summary
+
+You can open files into Vim directly from the terminal. This works for both single files and multiple files. In addition to reading these files into buffers, you can open them as splits or tabs. This video covers the basics of opening files from the terminal.
+
+## Lesson
+
 To open files in Vim right from the terminal.
 
 Run `vim` but with a space and path to the file you'd like opened.

@@ -1,6 +1,10 @@
-# Install the latest version of Vim on a Mac with Home-brew
+# Install the Latest Vim on a Mac with Homebrew
 
 ## Summary
+
+The version of Vim that comes with your operating system is out of date.
+You can find download instructions at vim.org for all platforms.
+However, the easiest way to get the latest Vim on a mac is with Homebrew...
 
 ## Lesson
 
