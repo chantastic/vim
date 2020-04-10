@@ -1,9 +1,10 @@
 ## Create New files with the New Command
 
-Create a new, empty file with the `:new` command in normal mode by typing `:new`.
+To create a new, empty file in Vim, use the `:new` command.
+Type `:new` in normal mode and hit enter.
 
 This command creates a new buffer in a new window.
-Run the command `:buffers` to see the new, unsaved buffer.
+Run the command `:buffers` to see this new, unsaved buffer.
 
 Save this buffer to disk using the write command (`:w`) and providing a filename.
 
